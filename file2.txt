@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 random pork_belly Barstow
+=======
+random
+>>>>>>> parent of 5076c5c... added 'pork_belly' to file2.txt
